@@ -9,6 +9,13 @@
     <version>1.0-SNAPSHOT</version>
 
 <dependencies>
+<!--    <dependency>-->
+<!--        <groupId>org.junit.jupiter</groupId>-->
+<!--        <artifactId>junit-jupiter-engine</artifactId>-->
+<!--        <version>5.4.0</version>-->
+<!--        <scope>test</scope>-->
+<!--    </dependency>-->
+
     <!-- https://mvnrepository.com/artifact/junit/junit -->
     <dependency>
         <groupId>junit</groupId>
@@ -17,11 +24,19 @@
         <scope>test</scope>
     </dependency>
 
+    <!-- https://mvnrepository.com/artifact/com.intuit.karate/karate-junit4 -->
     <dependency>
         <groupId>com.intuit.karate</groupId>
-        <artifactId>karate-junit5</artifactId>
+        <artifactId>karate-junit4</artifactId>
         <version>1.0.0</version>
         <scope>test</scope>
     </dependency>
+
+<!--    <dependency>-->
+<!--        <groupId>com.intuit.karate</groupId>-->
+<!--        <artifactId>karate-junit5</artifactId>-->
+<!--        <version>1.0.0</version>-->
+<!--        <scope>test</scope>-->
+<!--    </dependency>-->
 </dependencies>
 </project>

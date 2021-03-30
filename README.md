@@ -1,7 +1,7 @@
 # Karate-demo-project
 Description: 
-1. Karate is onel of the recently emeerged and become renonwned open source test automation framework.
-2. Karate is built on top of cucumber, It supports gherkin BDD syntax.
+1. Karate is one of the recently emeerged and become renonwned open source test automation framework.
+2. Karate is build on top of cucumber, It supports gherkin BDD syntax.
 3. It is codeless automation framework all the step definitions are available as ouot of the box functionality.
 
 Features : 
